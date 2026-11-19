@@ -1,6 +1,6 @@
 # Books I Read
 
-📚 **28 books** · 🔵 7 reading · 🟢 21 read
+📚 **28 books** · 🟢 21 read · 🔵 7 reading
 
 [Software Engineering](#software-engineering) · [Software Architecture](#software-architecture) · [Back-end](#back-end) · [Data Engineering](#data-engineering) · [Leadership](#leadership) · [UX Design](#ux-design)
 
