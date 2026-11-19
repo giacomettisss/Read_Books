@@ -15,7 +15,7 @@ Id | Read | Focus | Book
 3  | 🔵 Reading | Software Architecture | [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://www.amazon.com/dp/1492052205)
 4  | 🔵 Reading | Software Architecture | [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.amazon.com/dp/1492086894)
 5  | 🔵 Reading | Software Design       | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
-6  | 🔵 Reading | Data Science          | [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://www.amazon.com/dp/1119741742)
+6  | 🔵 Reading | Leadership            | [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](https://www.amazon.com/dp/1119741742)
 7  | 🔵 Reading | DevSecOps             | [Learning DevSecOps: A Practical Guide to Processes and Tools](https://www.amazon.com/dp/1098144864)
 8  | 🟢 Read    | Python                | [Think Python: How to Think Like a Computer Scientist](https://www.amazon.com.br/Think-Python-2e-Allen-Downey/dp/1491939362)
 9  | 🟢 Read    | Python                | [Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More](https://www.amazon.com.br/Serious-Python-Black-Belt-Deployment-Scalability/dp/1593278780)
@@ -35,7 +35,7 @@ Id | Read | Focus | Book
 23 | 🟢 Read    | Agile                 | [Clean Agile: Back to Basics](https://www.amazon.com/dp/0135781868)
 24 | 🟢 Read    | UX Design             | [Design for How People Think: Using Brain Science to Build Better Products](https://www.amazon.com/dp/1491985453)
 25 | 🟢 Read    | UX Design             | [Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience](https://www.amazon.com/dp/1492079227)
-26 | 🟢 Read    | Career                | [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.amazon.com/dp/1098118731)
+26 | 🟢 Read    | Leadership            | [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.amazon.com/dp/1098118731)
 27 | 🟢 Read    | Regex                 | [Introducing Regular Expressions: Unraveling Regular Expressions, Step-By-Step](https://www.amazon.com.br/Introducing-Regular-Expressions-Michael-Fitzgerald/dp/1449392687)
 28 | 🟢 Read    | Json                  | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.com.br/Introduction-JavaScript-Object-Notation-Point-ebook/dp/B013HA441A)
 
