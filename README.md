@@ -1,6 +1,6 @@
 # Books I Read
 
-📚 **28 books** · 🟢 21 read · 🔵 7 reading
+📚 **28 books** · 🟢 20 read · 🔵 7 reading · ⚪ 1 to read
 
 [Software Engineering](#software-engineering) · [Software Architecture](#software-architecture) · [Back-end](#back-end) · [Data Engineering](#data-engineering) · [Leadership](#leadership) · [UX Design](#ux-design)
 
@@ -8,9 +8,9 @@
 
 ### Read
 
-- [Think Python: How to Think Like a Computer Scientist](https://www.amazon.com.br/Think-Python-2e-Allen-Downey/dp/1491939362)
-- [Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More](https://www.amazon.com.br/Serious-Python-Black-Belt-Deployment-Scalability/dp/1593278780)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More](https://www.amazon.com.br/Serious-Python-Black-Belt-Deployment-Scalability/dp/1593278780)
+- [Think Python: How to Think Like a Computer Scientist](https://www.amazon.com.br/Think-Python-2e-Allen-Downey/dp/1491939362)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.amazon.com/dp/1098151240)
 - [Introducing Regular Expressions: Unraveling Regular Expressions, Step-By-Step](https://www.amazon.com.br/Introducing-Regular-Expressions-Michael-Fitzgerald/dp/1449392687)
@@ -44,24 +44,27 @@
 ### Read
 
 - [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com/dp/1098108302)
-- [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040)
-- [Advanced Analytics with PySpark: Patterns for Learning from Data at Scale Using Python and Spark](https://www.amazon.com/Advanced-Analytics-PySpark-Patterns-Learning/dp/1098103653)
 - [Data Mesh: Delivering Data-Driven Value at Scale](https://www.amazon.com/dp/1492092398)
+- [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040)
 - [Non-Invasive Data Governance: The Path of Least Resistance and Greatest Success](https://www.amazon.com/dp/1935504851)
 - [Python for Data Analysis: Data Wrangling with Pandas, Numpy, and Jupyter](https://www.amazon.com.br/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X)
 - [Data Science from Scratch: First Principles with Python](https://www.amazon.com.br/Data-Science-Scratch-Joel-Grus/dp/1492041130)
 
 ### Reading
 
-- [Data Pipelines with Apache Airflow](https://www.amazon.com/dp/1617296902)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
+- [Data Pipelines with Apache Airflow](https://www.amazon.com/dp/1617296902)
+
+### To Read
+
+- [Advanced Analytics with PySpark: Patterns for Learning from Data at Scale Using Python and Spark](https://www.amazon.com/Advanced-Analytics-PySpark-Patterns-Learning/dp/1098103653)
 
 ## Leadership
 
 ### Read
 
-- [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.amazon.com/dp/1098118731)
 - [Clean Agile: Back to Basics](https://www.amazon.com/dp/0135781868)
+- [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.amazon.com/dp/1098118731)
 
 ### Reading
 
@@ -71,5 +74,5 @@
 
 ### Read
 
-- [Design for How People Think: Using Brain Science to Build Better Products](https://www.amazon.com/dp/1491985453)
 - [Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience](https://www.amazon.com/dp/1492079227)
+- [Design for How People Think: Using Brain Science to Build Better Products](https://www.amazon.com/dp/1491985453)
