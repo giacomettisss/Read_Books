@@ -38,9 +38,6 @@ Id | Read | Focus | Book
 26 | 🟢 Read    | Career                | [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.amazon.com/dp/1098118731)
 27 | 🟢 Read    | Regex                 | [Introducing Regular Expressions: Unraveling Regular Expressions, Step-By-Step](https://www.amazon.com.br/Introducing-Regular-Expressions-Michael-Fitzgerald/dp/1449392687)
 28 | 🟢 Read    | Json                  | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.com.br/Introduction-JavaScript-Object-Notation-Point-ebook/dp/B013HA441A)
-29 | ⚪️ On Hold | Data Science          | [Practical Statistics for Data Scientists](https://www.amazon.com.br/Practical-Statistics-Scientists-Peter-Bruce/dp/1491952962)
-30 | ⚪️ On Hold | Data Analytics        | [Tableau Strategies: Solving Real, Practical Problems with Data Analytics](https://www.amazon.com.br/Tableau-Strategies-Practical-Problems-Analytics/dp/149208008X)
-31 | ⚪️ On Hold | Web Framework         | [Django 4 by example](https://www.amazon.com.br/Django-Example-powerful-reliable-applications/dp/1801813051)
 
 <!-- :white_check_mark:| :heavy_check_mark: ✅✔️☑️
 
